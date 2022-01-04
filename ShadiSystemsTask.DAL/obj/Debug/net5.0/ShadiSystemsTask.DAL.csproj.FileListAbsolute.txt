@@ -1,0 +1,15 @@
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\bin\Debug\net5.0\ShadiSystemsTask.DAL.deps.json
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\bin\Debug\net5.0\ShadiSystemsTask.DAL.runtimeconfig.json
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\bin\Debug\net5.0\ShadiSystemsTask.DAL.runtimeconfig.dev.json
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\bin\Debug\net5.0\ShadiSystemsTask.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\bin\Debug\net5.0\ref\ShadiSystemsTask.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\bin\Debug\net5.0\ShadiSystemsTask.DAL.pdb
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.AssemblyInfo.cs
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ref\ShadiSystemsTask.DAL.dll
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.pdb
+C:\Users\Mohamed Sayed\source\repos\ShadiSystemsTask.PL\ShadiSystemsTask.DAL\obj\Debug\net5.0\ShadiSystemsTask.DAL.genruntimeconfig.cache
